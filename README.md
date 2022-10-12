@@ -1,8 +1,8 @@
-## VA Open Anesthesia Model (VEAM)
+## VA Enterprise Anesthesia Model
 
 **OBJECTIVE and MOTIVATION**
 
-**The VA Open Anesthesia Model is a peer-reviewed, practice-driven, literature-backed freely licensed computable anesthesia information model that enables exchange of the anesthesia record easily with existing standards and technology.**  
+**The VA Enterprise Anesthesia Model is a peer-reviewed, practice-driven, literature-backed freely licensed computable anesthesia information model that enables exchange of the anesthesia record easily with existing standards and technology.**  
 
 The Open Anesthesia Model is based on **JSON**, the same foundational data model adopted by the international healthcare interoperability standards organizations (HL7 and FHIR),  allowing rapid adoption and use across the VA, Federal health sector, and community care partners. 
 
