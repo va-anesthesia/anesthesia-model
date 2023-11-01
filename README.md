@@ -2,12 +2,11 @@
 
 **OBJECTIVE**
 
-**The VA Anesthesia Model is a peer-reviewed, practice-driven, literature-backed public-licensed information model to enable nationwide computable exchange of the electronic anesthesia and critical care record**  
+**The VA Anesthesia Model (VEAM) is a peer-reviewed, practice-driven, literature-backed public-licensed information model to enable nationwide computable exchange of the electronic anesthesia and critical care record**  
 
-The VA Enterprise Anesthesia Model is based on [JSON](https://en.wikipedia.org/wiki/JSON), the same foundational data model adopted by the international healthcare interoperability standards (HL7 and FHIR),  allowing rapid adoption and use across the VA, Federal health sector, and community care partners and electronic health record systems. 
+VEAM is based on [JSON](https://en.wikipedia.org/wiki/JSON), the same foundational data model adopted by the international healthcare interoperability standards (HL7 and FHIR),  allowing rapid adoption and use across the VA, Federal health sector, and community care partners and electronic health record systems. 
 
-The VA Anesthesia Model meets the mandates of the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia record - must be accessible to all patients at no cost and with no special effort. Noncompliance - also known as "information blocking" - carries a fine of up to $1 million.
-
+VEAM meets the mandates of the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia record - must be accessible to all patients at no cost and with no special effort. Noncompliance - also known as "information blocking" - carries a fine of up to $1 million.
 
 References:  
 * [ASA Monitor:Open Anesthesia Records: Guidance for Anesthesia Providers on Implementing the Cures Act](https://pubs.asahq.org/monitor/article/85/2/e3/115119/Open-Anesthesia-Records-Guidance-for-Anesthesia)
