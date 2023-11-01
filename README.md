@@ -2,7 +2,7 @@
 
 **OBJECTIVE**
 
-**The VA Anesthesia Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care record nationwide between VA, DoD, and Community**  
+**The VA Anesthesia Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records nationwide between the electronic health record systems of the VA, DoD, and Community**  
 
 The VA Anesthesia Model (VAM) is based on [JSON](https://en.wikipedia.org/wiki/JSON), the same data model used by the international health information standards (HL7 and FHIR),  enabling rapid adoption and use across the VA, Federal health sector, and community care partners and electronic health record systems. 
 
