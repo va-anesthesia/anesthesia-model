@@ -9,7 +9,7 @@ The Federal Anesthesia Model (FAM) is based on [JSON](https://en.wikipedia.org/w
 Implementing FAM complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
 
 
-Federal Standard for Anesthesia Record:
+Federal Standard for Anesthesia Record:   
 https://www.gsa.gov/system/files/of517.pdf
 
 
