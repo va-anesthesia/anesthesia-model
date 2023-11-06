@@ -4,7 +4,7 @@
 
 **The VA Anesthesia Exchange Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records between the electronic health record systems of the VA, DoD, and Community.**  
 
-The VA Anesthesia Exchange Model (VEAM) is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used for all web and mobile devices, and used by the international health record exchange (FHIR),  enabling rapid adoption across VA, Federal health, and Community care partners.
+The VA Anesthesia Exchange Model is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all internet connected devices, and used by the international health record exchange standard,  enabling rapid adoption across VA, Federal, and Community care partners.
 
 Implementing VEAM complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
 
