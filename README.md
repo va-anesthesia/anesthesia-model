@@ -10,7 +10,7 @@ Implementing FAM complies with the 2016 U.S. [CURES Act](https://en.wikipedia.or
 
 
 Federal Standard for Anesthesia Record:   
-https://www.gsa.gov/system/files/of517.pdf
+https://www.gsa.gov/reference/forms/medical-record-anesthesia
 
 
 References:  
