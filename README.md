@@ -1,12 +1,17 @@
-## VA Anesthesia Exchange Model
+## Federal Anesthesia Exchange Model
 
 **OBJECTIVE**
 
-**The VA Anesthesia Exchange Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records between the electronic health record systems of the VA, DoD, and Community.**  
+**The Federal Anesthesia Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records between the electronic health record systems of the VA, DoD, and Community.**  
 
-The VA Anesthesia Exchange Model is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all internet connected devices, and used by the international health record exchange standard,  enabling rapid adoption across VA, Federal, and Community care partners.
+The Federal Anesthesia Model (FAM) is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all internet connected devices, and used by the international health record exchange standard,  enabling rapid adoption across VA, Federal, and Community care partners.
 
-Implementing VEAM complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
+Implementing FAM complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
+
+
+Federal Standard for Anesthesia Record:
+https://www.gsa.gov/system/files/of517.pdf
+
 
 References:  
 * [ASA Monitor:Open Anesthesia Records: Guidance for Anesthesia Providers on Implementing the Cures Act](https://pubs.asahq.org/monitor/article/85/2/e3/115119/Open-Anesthesia-Records-Guidance-for-Anesthesia)
