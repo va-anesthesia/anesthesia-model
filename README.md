@@ -2,7 +2,7 @@
 
 **OBJECTIVE**
 
-**The VA Anesthesia Exchange Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records between the electronic health record systems of the VA, DoD, and Community.**  
+**The Federal Anesthesia Exchange Model is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records between the electronic health record systems of the VA, DoD, and Community.**  
 
 The Federal Anesthesia Exchange Model is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used for all web and mobile devices, and used by the international health record exchange (FHIR),  enabling rapid adoption across VA, Federal health, and Community care partners.
 
